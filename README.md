@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQFQ-RReqKdwqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723957072656?e=1732147200&v=beta&t=oRt4mqflTxcG-HhkZiyJZ7jMsOgDOQNahJhJ4UWl4yE">
-<h2 align="center">A passionate Professional Web Developer Designer& WordPress Expert</h2>
+<h2 align="center"> Professional Web Designer, Developer & WordPress Expert</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnur90&label=Profile%20views&color=0e75b6&style=flat" alt="devnur90" /> </p>
 
